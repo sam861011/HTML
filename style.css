@@ -1,0 +1,56 @@
+body{
+    background-color: #edf2c5;
+    margin-left: 0;
+    margin-right: 0;
+}
+
+header{
+    margin-top: 53px;
+    margin-left: 160px;
+    margin-right: 160px;
+}
+
+nav{
+    margin-left: 160px;
+    margin-right: 160px;
+}
+
+footer{
+    background-color: #778a50;
+    padding-left: 479px;
+    padding-right: 479px;
+}
+
+.veg_div{
+    font-size: 271px 42px;
+}
+
+.img_div{
+    text-align: right;
+}
+
+.pumpkin{
+    width: 940px;
+    height: 448px;
+    margin-left: 160px;
+    margin-right: 160px;
+}
+
+.contant_area{
+    margin-left: 160px;
+    margin-right: 160px;
+}
+
+.main_area{
+    width: 50%;
+    float: left;
+}
+
+.sidebar{
+    width: 50%;
+    float: right;
+}
+
+.clear{
+    clear: both;
+}
